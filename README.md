@@ -24,8 +24,6 @@ Este projeto consiste em uma aplicação console que solicita ao usuário um nom
 - Scanner para leitura de entrada via console
 
 ## Autor
-Denis
+Denis Oliveira
 
----
 
-Este README segue boas práticas para deixar claro o propósito, uso e funcionamento do código para futuros usuários e colaboradores.
